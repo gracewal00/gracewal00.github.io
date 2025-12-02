@@ -8,14 +8,6 @@ My GitHub page is http://github.com/gracewal00.
 
 ### CPSC 120
 
-* Lab 6
-
-    Lab 6, part 2 was a favorite because I was always curious about how the
-    game Blackjack works. I was able to write functions for the first time
-    that calculate the correct value of a Blackjack hand no matter how many
-    Aces were dealt.
-
-
 * Lab 4
     Lab 4, part 2 was a favorite of mine mainly because I liked that it required two players. I enjoyed using if statements to create a system where player 2 had more than one guess. This lab felt like a good start for creating simple games for users to play. 
 
